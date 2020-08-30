@@ -8,10 +8,10 @@ library(openssl)
 library(httpuv)
 
 
-api_key <- "1y3968JuMOhSWaoVQtUk1th2o"
-api_secret <- "rhBQDLzW8RsqX3O7PU4vtmd0sAECwmhzDKdb0X90H7jxn0S1fq"
-access_token <- "1286624759267065856-2N0R1OYk9HrCePEXuOxTyG3WtttdYQ"
-access_secret <- "UaygkqMpQ37bhFMPjnc025dbWwgzrVfYB9ErARJFxAKl8"
+api_key <- ""
+api_secret <- ""
+access_token <- ""
+access_secret <- ""
 
 twitter_token <- create_token(
   app = "NLP_Exercise28082020",
